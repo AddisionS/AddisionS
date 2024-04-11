@@ -4,7 +4,4 @@
 - 📫 How to reach me : Discord: .addision
 - ⚡ Fun fact: Not something very uncommon but a self taught dev
 
-<!---
-AddisionS/AddisionS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Stats](https://github-readme-stats.vercel.api?username=AddisionS&theme=radical)
