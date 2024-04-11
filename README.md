@@ -4,4 +4,4 @@
 - 📫 How to reach me : Discord: .addision
 - ⚡ Fun fact: Not something very uncommon but a self taught dev
 
-![GitHub Stats](https://github-readme-stats.vercel.api?username=AddisionS&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AddisionS&theme=radical)
