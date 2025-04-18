@@ -4,5 +4,5 @@
 - ⚡ Fun fact: Not something very uncommon but a self taught dev
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AddisionS&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AddisionS&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AddisionS&theme=tokyonight)
 
